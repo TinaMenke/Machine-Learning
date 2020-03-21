@@ -28,14 +28,15 @@ using kernel ridge regression and support vector machine (SVM).
 2. SVM: This is a classification method that can assign classes to new samples using only the inner
 product between the new samples and the samples in the training data. This allows us to use several
 different kernels, which makes SVM an extremely powerful classification method.
+
 Data: You will work with three datasets,
- Synthetic: Use this dataset to check equivalence between basis expansion and the use of kernels
+- Synthetic: Use this dataset to check equivalence between basis expansion and the use of kernels
 in regression settings. You are provided four files: data_train.txt, label_train.txt, data_test.txt and
 label_test.txt.
- CreditCard: This dataset has eight attributes and two outputs, all real numbers. We treat this is as a
+- CreditCard: This dataset has eight attributes and two outputs, all real numbers. We treat this is as a
 regression problem. The attributes correspond to credit card activity of individuals, and the outputs aretwo measure of risk as established by experts in the bank. You are provided three files: data_train.txt,
 label_train.txt and data_test.txt.
- Tumor: This dataset has nine attributes and a binary output. We treat this as a classification problem.
+- Tumor: This dataset has nine attributes and a binary output. We treat this as a classification problem.
 The attributes are different measurements obtained from a medical imaging, and the output corresponds
 to the presence/absence of tumor. You are provided three files: data_train.txt, label_train.txt
 and data_test.txt.

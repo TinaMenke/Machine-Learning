@@ -1,5 +1,5 @@
 # Machine-Learning
-A variety of small machine learning projects.
+This is a collection of small machine learning projects.
 
 In the following, the task of each machine learning project is briefly described. Unfortunately, more detailed information may not be published. 
 
